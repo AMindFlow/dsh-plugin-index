@@ -35,6 +35,18 @@
       ],
       "versions": [
         {
+          "version": "0.1.2",
+          "publishTimestamp": 1795769316,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/AMindFlow/dsh-search-chain.git",
+            "commit": "3e66616040ce07e93d9ddb129bcbd9d971ec083a"
+          },
+          "engines": {
+            "dsh": ">=0.2.2-rc.5 <0.3.0-0"
+          }
+        },
+        {
           "version": "0.1.1",
           "publishTimestamp": 1795768814,
           "source": {
